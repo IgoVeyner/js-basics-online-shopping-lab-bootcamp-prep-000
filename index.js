@@ -77,7 +77,7 @@ function placeOrder(cardNumber) {
   }
   else{
     let tot = total();
-    
+    for(let i=0;i<arra)
     return `Your total cost is $${tot}, which will be charged to the card ${cardNumber}.`
   }
 }
